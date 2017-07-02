@@ -1,0 +1,12 @@
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.UI.dll.config
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.UI.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.UI.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.Application.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.Domain.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.DAL.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.Application.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.Domain.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\bin\MinutoSeguros.Oportunidade.DAL.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\obj\Debug\MinutoSeguros.Oportunidade.UI.csprojResolveAssemblyReference.cache
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\obj\Debug\MinutoSeguros.Oportunidade.UI.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.UI\obj\Debug\MinutoSeguros.Oportunidade.UI.pdb

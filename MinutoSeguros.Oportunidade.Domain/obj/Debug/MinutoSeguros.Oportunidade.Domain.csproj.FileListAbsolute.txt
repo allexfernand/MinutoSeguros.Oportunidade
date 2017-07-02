@@ -1,0 +1,4 @@
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\MinutoSeguros.Oportunidade.Domain.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\MinutoSeguros.Oportunidade.Domain.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\obj\Debug\MinutoSeguros.Oportunidade.Domain.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\obj\Debug\MinutoSeguros.Oportunidade.Domain.pdb

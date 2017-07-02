@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{8DF0C53F-80F0-4B66-833E-5B696B95B4E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Business", "2 - Business", "{2FE5BCAC-1949-4FFC-ADB5-54A2DAD01ED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{F8992189-5168-4087-9F6F-E9DD0505C477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Oportunidade.UI", "MinutoSeguros.Oportunidade.UI\MinutoSeguros.Oportunidade.UI.csproj", "{501F4E2A-2EE8-427C-A353-DD5AE7EAD920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Oportunidade.Application", "MinutoSeguros.Oportunidade.Application\MinutoSeguros.Oportunidade.Application.csproj", "{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Oportunidade.Domain", "MinutoSeguros.Oportunidade.Domain\MinutoSeguros.Oportunidade.Domain.csproj", "{F4267637-411E-4CDB-8445-8E6C4A0892EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Oportunidade.DAL", "MinutoSeguros.Oportunidade.DAL\MinutoSeguros.Oportunidade.DAL.csproj", "{82597AA9-24FF-47CD-96ED-F51768D6578B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501F4E2A-2EE8-427C-A353-DD5AE7EAD920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501F4E2A-2EE8-427C-A353-DD5AE7EAD920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501F4E2A-2EE8-427C-A353-DD5AE7EAD920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501F4E2A-2EE8-427C-A353-DD5AE7EAD920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4267637-411E-4CDB-8445-8E6C4A0892EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4267637-411E-4CDB-8445-8E6C4A0892EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4267637-411E-4CDB-8445-8E6C4A0892EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4267637-411E-4CDB-8445-8E6C4A0892EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82597AA9-24FF-47CD-96ED-F51768D6578B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82597AA9-24FF-47CD-96ED-F51768D6578B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82597AA9-24FF-47CD-96ED-F51768D6578B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82597AA9-24FF-47CD-96ED-F51768D6578B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{501F4E2A-2EE8-427C-A353-DD5AE7EAD920} = {8DF0C53F-80F0-4B66-833E-5B696B95B4E7}
+		{DBC8D462-B94E-49F6-BBF4-101ADA1B1E89} = {2FE5BCAC-1949-4FFC-ADB5-54A2DAD01ED8}
+		{F4267637-411E-4CDB-8445-8E6C4A0892EC} = {2FE5BCAC-1949-4FFC-ADB5-54A2DAD01ED8}
+		{82597AA9-24FF-47CD-96ED-F51768D6578B} = {F8992189-5168-4087-9F6F-E9DD0505C477}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.DAL\bin\Debug\MinutoSeguros.Oportunidade.DAL.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.DAL\bin\Debug\MinutoSeguros.Oportunidade.DAL.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.DAL\obj\Debug\MinutoSeguros.Oportunidade.DAL.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.DAL\obj\Debug\MinutoSeguros.Oportunidade.DAL.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.DAL\obj\Debug\MinutoSeguros.Oportunidade.DAL.csprojResolveAssemblyReference.cache
