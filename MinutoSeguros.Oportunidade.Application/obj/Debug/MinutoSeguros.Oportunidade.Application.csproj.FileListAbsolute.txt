@@ -7,3 +7,10 @@ C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Opo
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\obj\Debug\MinutoSeguros.Oportunidade.Application.csprojResolveAssemblyReference.cache
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\obj\Debug\MinutoSeguros.Oportunidade.Application.dll
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\obj\Debug\MinutoSeguros.Oportunidade.Application.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Common.Logging.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Rest.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Social.Core.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Rest.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Rest.xml
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Social.Core.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Application\bin\Debug\Spring.Social.Core.xml

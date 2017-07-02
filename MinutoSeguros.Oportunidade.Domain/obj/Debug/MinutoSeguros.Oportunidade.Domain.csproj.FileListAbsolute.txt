@@ -2,3 +2,11 @@ C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Opo
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\MinutoSeguros.Oportunidade.Domain.pdb
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\obj\Debug\MinutoSeguros.Oportunidade.Domain.dll
 C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\obj\Debug\MinutoSeguros.Oportunidade.Domain.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Common.Logging.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Rest.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Social.Core.dll
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Rest.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Rest.xml
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Social.Core.pdb
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\bin\Debug\Spring.Social.Core.xml
+C:\Users\allex.fernandes\Documents\Visual Studio 2015\Projects\MinutoSeguros.Oportunidade\MinutoSeguros.Oportunidade.Domain\obj\Debug\MinutoSeguros.Oportunidade.Domain.csprojResolveAssemblyReference.cache
